@@ -1,3 +1,7 @@
+# DEPRECATED
+
+**DEPRECATED**. Use the [Snowflake Integration](https://github.com/whylabs/whylabs-snowflake-integration) instead.
+
 # End to End Tutorial
 
 ## Optional, create some data
